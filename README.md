@@ -1,6 +1,7 @@
 # numerical_methods
 
 note:
+  - The language used for these codes are that of Mathematica. The files uploaded are pdf files of the codes and results.
   - A lower level description of the code is provided in the same files that the codes are in.
   - The different numerical methods named below are coded and tested in the files they are in.
   - Algorithms are compared to each other using tables and visuals.
